@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuDoubt"
+        android:icon="@drawable/ic_help"
+        android:title="Doubts" />
+    <item
+        android:id="@+id/menuHome"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+<!--    <item-->
+<!--        android:id="@+id/menuDiscover"-->
+<!--        android:icon="@drawable/ic_search"-->
+<!--        android:title="Discover" />-->
+</menu>

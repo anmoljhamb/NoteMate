@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859766664052",
+    "project_id": "notemate-b3f4c",
+    "storage_bucket": "notemate-b3f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859766664052:android:7a13840a5b7170e0029a21",
+        "android_client_info": {
+          "package_name": "com.example.notemate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859766664052-k98tn4ljaol8rl7ph26sls49csllt6pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBApUp347btp4bJBXQlDPDNAewAW9Y-GIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859766664052-k98tn4ljaol8rl7ph26sls49csllt6pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
